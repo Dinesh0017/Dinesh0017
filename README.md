@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Dinesh Rathnasiri</h1>
 <h3 align="center">Unlocking the Power of Code: A Journey Through Computer Science.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh0017&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh0017" /> </p>
@@ -54,3 +53,5 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh0017&theme=arctic"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
