@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh Rathnasiri</h1>
+<h1 align="center">Hi 👋, I'm Dinesh Rathnasiri </h1>
 <h3 align="center">Unlocking the Power of Code: A Journey Through Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh0017&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh0017" /> </p>
